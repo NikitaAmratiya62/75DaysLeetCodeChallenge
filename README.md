@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0011-container-with-most-water](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
