@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
