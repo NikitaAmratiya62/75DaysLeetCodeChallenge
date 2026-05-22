@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -156,5 +157,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
