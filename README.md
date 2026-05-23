@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
