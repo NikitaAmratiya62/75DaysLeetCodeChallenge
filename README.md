@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -147,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 ## Linked List
