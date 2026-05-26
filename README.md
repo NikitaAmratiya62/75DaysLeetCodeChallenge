@@ -101,6 +101,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -117,6 +118,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
