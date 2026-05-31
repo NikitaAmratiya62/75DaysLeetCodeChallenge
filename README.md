@@ -111,6 +111,7 @@
 | [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -143,6 +144,7 @@
 | [0118-pascals-triangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,8 +187,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
