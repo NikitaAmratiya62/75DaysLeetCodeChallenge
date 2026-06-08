@@ -80,6 +80,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +200,7 @@
 | [0061-rotate-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
