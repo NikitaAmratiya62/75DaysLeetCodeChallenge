@@ -204,6 +204,7 @@
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
