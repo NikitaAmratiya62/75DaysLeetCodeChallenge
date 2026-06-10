@@ -98,11 +98,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -203,6 +205,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -239,4 +242,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
