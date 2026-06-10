@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +84,7 @@
 | [0086-partition-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +219,7 @@
 | [0086-partition-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
