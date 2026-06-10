@@ -128,6 +128,7 @@
 | [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -179,6 +180,7 @@
 | [0155-min-stack](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -218,6 +220,7 @@
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
