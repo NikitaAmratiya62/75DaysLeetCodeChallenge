@@ -77,6 +77,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -286,4 +287,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
