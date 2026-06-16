@@ -209,6 +209,7 @@
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
