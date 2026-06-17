@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -210,6 +211,7 @@
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -222,6 +224,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
