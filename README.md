@@ -17,6 +17,7 @@
 | [0059-spiral-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
@@ -222,6 +224,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
