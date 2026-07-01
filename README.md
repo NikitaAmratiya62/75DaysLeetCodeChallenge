@@ -321,6 +321,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -331,4 +332,16 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
