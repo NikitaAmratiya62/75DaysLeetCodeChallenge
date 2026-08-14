@@ -321,6 +321,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -336,6 +337,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
@@ -343,12 +345,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
