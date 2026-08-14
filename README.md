@@ -84,6 +84,7 @@
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -326,6 +327,7 @@
 | [0110-balanced-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -346,6 +348,7 @@
 | [0110-balanced-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,8 +367,10 @@
 | [0110-balanced-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
