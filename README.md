@@ -334,6 +334,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -359,6 +360,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -383,10 +385,15 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
