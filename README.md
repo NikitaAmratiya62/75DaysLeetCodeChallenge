@@ -40,6 +40,7 @@
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
