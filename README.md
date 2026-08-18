@@ -207,6 +207,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -380,6 +381,7 @@
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -406,6 +408,7 @@
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -431,4 +434,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
