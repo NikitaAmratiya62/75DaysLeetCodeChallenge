@@ -116,6 +116,7 @@
 | [0796-rotate-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Two Pointers
 |  |
@@ -266,6 +267,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
