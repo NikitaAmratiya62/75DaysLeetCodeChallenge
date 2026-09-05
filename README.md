@@ -213,6 +213,7 @@
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -383,6 +385,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
