@@ -47,6 +47,7 @@
 | [0697-degree-of-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -264,6 +265,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
