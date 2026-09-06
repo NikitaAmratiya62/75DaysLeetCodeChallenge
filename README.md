@@ -57,6 +57,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -272,6 +273,7 @@
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 ## Linked List
 |  |
