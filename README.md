@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -333,6 +335,7 @@
 | [0048-rotate-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
