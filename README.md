@@ -427,6 +427,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -462,6 +463,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -500,6 +502,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
