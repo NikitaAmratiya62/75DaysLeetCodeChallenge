@@ -563,4 +563,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
