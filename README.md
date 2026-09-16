@@ -578,5 +578,6 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 | [1251-average-selling-price](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
+| [1484-group-sold-products-by-the-date](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
