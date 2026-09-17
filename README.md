@@ -583,4 +583,5 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
