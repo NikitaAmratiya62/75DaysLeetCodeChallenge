@@ -588,5 +588,6 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
