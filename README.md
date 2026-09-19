@@ -581,6 +581,7 @@
 | [0585-investments-in-2016](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1341-movie-rating) |
