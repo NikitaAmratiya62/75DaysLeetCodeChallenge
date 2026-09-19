@@ -583,6 +583,7 @@
 | [0626-exchange-seats](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
