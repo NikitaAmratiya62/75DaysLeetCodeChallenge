@@ -234,6 +234,7 @@
 | [0836-rectangle-overlap](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -537,6 +538,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## K-D Tree
 |  |
 | ------- |
