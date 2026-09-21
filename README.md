@@ -585,6 +585,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
