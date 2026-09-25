@@ -603,5 +603,6 @@
 | [1661-average-time-of-process-per-machine](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1934-confirmation-rate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
