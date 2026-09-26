@@ -588,6 +588,7 @@
 | [0610-triangle-judgement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1211-queries-quality-and-percentage) |
