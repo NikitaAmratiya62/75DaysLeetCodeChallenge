@@ -131,6 +131,7 @@
 | [0443-string-compression](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -323,6 +324,7 @@
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
@@ -606,4 +608,8 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1978-employees-whose-manager-left-the-company) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
