@@ -5,7 +5,8 @@ class Solution {
         for(char ch : s.toCharArray()) {
             if(ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
-            } else {
+            } 
+            else {
                 if(st.isEmpty()) return false;
 
                 char top = st.pop();
