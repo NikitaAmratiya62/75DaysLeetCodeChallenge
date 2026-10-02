@@ -117,6 +117,7 @@
 | [0012-integer-to-roman](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -525,6 +527,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -613,5 +616,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
