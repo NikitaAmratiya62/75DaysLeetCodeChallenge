@@ -119,6 +119,7 @@
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
@@ -617,5 +620,6 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
