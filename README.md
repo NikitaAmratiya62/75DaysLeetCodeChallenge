@@ -607,6 +607,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0185-department-top-three-salaries) |
+| [0550-game-play-analysis-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0585-investments-in-2016) |
