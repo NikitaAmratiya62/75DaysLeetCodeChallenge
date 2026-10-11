@@ -66,6 +66,7 @@
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -601,6 +602,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Combinatorics
