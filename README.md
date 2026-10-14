@@ -195,6 +195,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -264,6 +265,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
