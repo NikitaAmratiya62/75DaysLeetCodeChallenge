@@ -262,6 +262,7 @@
 | [0836-rectangle-overlap](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -602,6 +603,7 @@
 | [0029-divide-two-integers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Data Stream
 |  |
