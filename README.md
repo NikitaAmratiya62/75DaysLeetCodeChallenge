@@ -100,6 +100,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +196,7 @@
 | [0143-reorder-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
@@ -281,6 +283,7 @@
 | [0069-sqrtx](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -734,4 +737,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
