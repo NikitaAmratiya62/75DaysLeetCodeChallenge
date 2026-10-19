@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -103,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -128,6 +130,7 @@
 | [0295-find-median-from-data-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
@@ -198,6 +201,7 @@
 | [0344-reverse-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -322,6 +326,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
