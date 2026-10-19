@@ -65,6 +65,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -128,6 +129,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -319,6 +321,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
