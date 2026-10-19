@@ -52,6 +52,7 @@
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
