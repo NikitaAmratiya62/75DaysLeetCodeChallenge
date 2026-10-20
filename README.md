@@ -73,6 +73,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -116,6 +117,7 @@
 | [0567-permutation-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
