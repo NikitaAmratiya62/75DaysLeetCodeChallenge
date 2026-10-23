@@ -68,6 +68,7 @@
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -326,6 +327,7 @@
 | [0238-product-of-array-except-self](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
