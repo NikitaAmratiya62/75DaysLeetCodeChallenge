@@ -65,6 +65,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
@@ -149,6 +150,7 @@
 | [0912-sort-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -268,6 +270,7 @@
 | [0912-sort-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
