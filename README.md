@@ -310,6 +310,7 @@
 | [0070-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -505,6 +506,7 @@
 | [0050-powx-n](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -684,6 +686,7 @@
 | [0136-single-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
