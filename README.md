@@ -87,6 +87,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -371,6 +372,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
+| [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -762,6 +765,7 @@
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
+| [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -772,6 +776,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 ## Union-Find
 |  |
 | ------- |
