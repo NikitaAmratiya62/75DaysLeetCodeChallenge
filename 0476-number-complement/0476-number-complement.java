@@ -1,0 +1,12 @@
+class Solution {
+    public int findComplement(int num) {
+        int temp=num;
+        int mask=0;
+        while(temp>0){
+            mask=(mask<<1)|1;
+            temp=temp>>1;
+        }
+        int ans=num^mask;
+        return ans;
+    }
+}
