@@ -46,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -317,6 +318,7 @@
 | [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
+| [0477-total-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -698,6 +700,7 @@
 | [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
