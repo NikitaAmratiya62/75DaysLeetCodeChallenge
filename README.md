@@ -696,6 +696,7 @@
 | [0191-number-of-1-bits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
