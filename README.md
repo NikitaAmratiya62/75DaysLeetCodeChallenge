@@ -50,6 +50,7 @@
 | [0496-next-greater-element-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
