@@ -50,6 +50,7 @@
 | [0496-next-greater-element-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -473,6 +474,7 @@
 | [0085-maximal-rectangle](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
@@ -531,6 +533,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
