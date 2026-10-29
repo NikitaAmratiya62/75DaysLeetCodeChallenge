@@ -69,6 +69,7 @@
 | [1046-last-stone-weight](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
