@@ -75,6 +75,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1572-matrix-diagonal-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
@@ -482,6 +483,7 @@
 | [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
+| [1572-matrix-diagonal-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
