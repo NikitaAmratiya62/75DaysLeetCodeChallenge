@@ -61,6 +61,7 @@
 | [0724-find-pivot-index](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
@@ -238,6 +239,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -477,6 +479,7 @@
 | [0200-number-of-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
@@ -537,6 +540,7 @@
 | [0059-spiral-matrix-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -712,6 +716,7 @@
 | [0461-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
