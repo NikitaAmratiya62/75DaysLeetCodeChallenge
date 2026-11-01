@@ -91,6 +91,7 @@
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -144,6 +145,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -319,6 +321,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
@@ -356,6 +359,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
