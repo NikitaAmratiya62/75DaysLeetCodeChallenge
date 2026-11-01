@@ -53,6 +53,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -168,6 +169,7 @@
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
@@ -352,6 +354,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
