@@ -111,6 +111,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -371,6 +372,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
