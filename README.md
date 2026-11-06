@@ -124,6 +124,7 @@
 | [3903-smallest-stable-index-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -331,6 +334,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -345,6 +349,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -608,6 +613,7 @@
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
 | [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Memoization
 |  |
 | ------- |
@@ -856,6 +862,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1818-minimum-absolute-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Indexed Tree
 |  |
 | ------- |
