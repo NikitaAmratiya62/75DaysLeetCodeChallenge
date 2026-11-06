@@ -103,6 +103,7 @@
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -160,6 +161,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
+| [2747-count-zero-request-servers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -201,6 +203,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -482,6 +485,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
