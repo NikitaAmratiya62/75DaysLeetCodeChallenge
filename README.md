@@ -54,6 +54,7 @@
 | [0496-next-greater-element-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
@@ -183,6 +184,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -322,6 +324,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
