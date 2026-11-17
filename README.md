@@ -251,6 +251,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -299,6 +300,7 @@
 | [2465-number-of-distinct-averages](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
