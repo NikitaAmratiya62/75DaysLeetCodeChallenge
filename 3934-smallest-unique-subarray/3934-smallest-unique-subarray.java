@@ -6,7 +6,7 @@ class Solution {
         long[] h = new long[n + 1];
         long[] p = new long[n + 1];
         p[0] = 1;
-        // Compute prefix hashes and powers of BASE
+    
         for (int i = 0; i < n; ++i) {
             h[i + 1] = (h[i] * BASE + nums[i]) % MOD;
             p[i + 1] = (p[i] * BASE) % MOD;
