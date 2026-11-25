@@ -137,6 +137,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
@@ -183,6 +184,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
@@ -482,6 +484,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -969,4 +972,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
