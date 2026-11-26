@@ -426,6 +426,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -666,6 +667,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/2326-spiral-matrix-iv) |
+| [3360-stone-removal-game](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/NikitaAmratiya62/75DaysLeetCodeChallenge/tree/master/4065-rearrange-array-by-removing-distinct-values) |
